@@ -7,3 +7,7 @@ No i will copy changes to integration branch from master.`
 
 #New Branch Created.
 Now changes will be added to new branch i.e. BugFix.
+
+
+#Trying to add changes directly to master.
+Lets see what happen.
